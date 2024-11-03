@@ -1,3 +1,4 @@
 ### This is a ongoing portfolio project with NEXT JS
 
-Take a look [here] (www.rhprincy.netlify.app)
+Take a look [here](https://rhprincy.netlify.app)
+
